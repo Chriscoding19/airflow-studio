@@ -171,7 +171,7 @@ Potential areas for further development include:
 - Additional gesture recognition capabilities.
 - Expanded brush effects and creative tools.
 - Improved drawing precision and gesture customisation.
-
+  
 
 ## License
 
