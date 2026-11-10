@@ -172,13 +172,6 @@ Potential areas for further development include:
 - Expanded brush effects and creative tools.
 - Improved drawing precision and gesture customisation.
 
-## Author
-
-**Christopher Adolph**
-
-Computer Science student interested in software engineering, computer vision, interactive applications and modern web technologies.
-
-GitHub: [Chriscoding19](https://github.com/Chriscoding19)
 
 ## License
 
